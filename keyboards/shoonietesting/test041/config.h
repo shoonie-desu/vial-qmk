@@ -4,10 +4,7 @@
 
 #include "config_common.h"
 
-#define ENCODERS_PAD_A { A14, A2 }
-#define ENCODERS_PAD_B { A13, C15 }
-
-
-#define ENCODER_RESOLUTION 4
+#define ENCODERS_PAD_A { C1 }
+#define ENCODERS_PAD_B { C2 }
 
 /* This file is empty and unrequired */

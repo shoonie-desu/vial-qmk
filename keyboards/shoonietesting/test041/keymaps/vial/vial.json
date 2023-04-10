@@ -1,0 +1,26 @@
+{
+    "name": "ZENSAI_65",
+    "vendorId": "0xFEED",
+    "productId": "0x0001",
+    "lighting": "none",
+    "matrix": {
+        "rows": 2,
+        "cols": 2
+    },
+    "layouts": {
+        "labels": [],
+        "keymap": [
+            [
+                "0,0",
+                "0,1"
+            ],
+            [
+                {
+                    "x": 0.25
+                },
+                "1,0",
+                "1,1"
+            ]
+        ]
+    }
+}
