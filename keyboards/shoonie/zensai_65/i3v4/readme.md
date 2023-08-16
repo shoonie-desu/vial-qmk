@@ -1,7 +1,5 @@
 # shoonie/zensai_65/i3v4
 
-![shoonietesting/zensai_65](imgur.com image replace me!)
-
 *65% pcb with 2 encoders, powered by Bonsai C4*
 
 * Keyboard Maintainer: [shoonie-desu](https://github.com/shoonie-desu)
