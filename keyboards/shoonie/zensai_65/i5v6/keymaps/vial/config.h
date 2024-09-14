@@ -2,6 +2,9 @@
 
 #pragma once
 
+#define NO_USB_STARTUP_CHECK
+#define USB_SUSPEND_WAKEUP_DELAY 500
+
 #define VIAL_KEYBOARD_UID {0x0B, 0xAD, 0x76, 0x18, 0x55, 0x1D, 0xFA, 0xD5}
 
 #define VIAL_UNLOCK_COMBO_ROWS {0, 4, 4}
